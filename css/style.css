@@ -1,0 +1,13 @@
+body{
+  width: 100%;
+}
+.registration{
+  width: 100px;
+  margin:  auto;
+}
+.input-btn {
+  display: flex;
+}
+.input-btn input{
+  border: none;
+}
